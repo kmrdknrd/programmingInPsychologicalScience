@@ -23,3 +23,4 @@ def cheat(exercise):
         plt.savefig("Q3.2P.2.stacked.png", dpi=300)
     else:
         print("welp")
+    return result
